@@ -1,0 +1,52 @@
+body {
+background-color: rgb(45, 64, 72);
+
+}
+
+h1 {
+    border: solid;
+    text-align: center;
+    background-color: rgb(164, 217, 217);
+    font-family: 'Courier New', Courier, monospace;
+}
+div .first{
+    box-shadow: 10px 15px 20px lightblue;
+    display: flex;
+    border-radius: 5px;
+    
+}
+
+.div1 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(33, 67, 97);
+    margin: 10px;
+    box-shadow: 10px 15px 20px lightblue;
+
+}
+
+.div2 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(29, 62, 90);
+    margin: 10px;
+    box-shadow: 10px 15px 20px lightblue;
+}
+
+.div3 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(16, 44, 68);
+    margin: 10px;
+    box-shadow: 10px 15px 20px lightblue;
+
+}
+
+img {
+    margin: 5px;
+    object-fit: cover;
+    border-radius: 5px;
+}
